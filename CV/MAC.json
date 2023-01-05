@@ -430,6 +430,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
     "status": "searchingActively"
   }
 }
