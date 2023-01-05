@@ -1,0 +1,425 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Heriberto",
+      "surnames": "Sosa",
+      "title": "Software Engineer | Laravel Backend | PHP | Javascript | Node.js",
+      "description": "Me desempeño como programador en dos ámbitos: desarrollo web y aplicaciones.\n\na nivel web\n\nhe realizado proyectos de forma freelance y bajo contrato cubriendo el maquetado web con framework como bootstrap y fundation, creación de plugins con jquery para aportar funcionalidades a páginas web como sliders, creación de templates para manejadores de contenido, usando tecnología base html, css y js y también personalización de aplicaciones opensource en el cual se trabajó el look&feel para cumplir con la imagen corporativa.\n\na nivel de aplicaciones,\n\nutilizando lenguaje base php o con el framework laravel he tenido algunas experiencias en desarrollo de módulos puntuales para realizar CRUD sobre requerimientos de clientes, creación de formularios, gestión de stock, manejos de APIS varias OAUTH, Maps, Twilio, Google, Facebook, Mercadopago",
+      "avatar": {
+        "alt": "DSC_0184.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/25/871ab154-8b08-426b-87c0-98ed0eb9fe2d_dsc_0184.jpg"
+      },
+      "location": {
+        "country": "Venezuela",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/sosaheri"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/hjsv25"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/heribertososa/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Jul 2021 - Sep 2022 "
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2022-12-25",
+            "challenges": [
+              {
+                "description": "Software Engineer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sep 2022 - Present "
+        },
+        "roles": [
+          {
+            "name": "Lead Developer",
+            "startDate": "2022-12-25",
+            "challenges": [
+              {
+                "description": "Lead Developer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "DRAPSHOP GROUP INC.",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Lead Developer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DRAPSHOP GROUP INC. "
+        },
+        "roles": [
+          {
+            "name": "Lead Developer",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-12-31",
+            "challenges": [
+              {
+                "description": "- Reduje en un 80% los bugs del ambiente de producción mediante la implementación de un sistema de tracking de errores.\n- Dimisnuí en un 90% el tiempo de despliegue mediante la implementación de un pipeline CI/CD para todo el equipo de desarrollo.\n- Reduje el tiempo de carga en un 50% mediante la optimización de los endpoints relacionados a listado de productos y restaurantes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PevGrow - Grow Shop "
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-03-31",
+            "challenges": [
+              {
+                "description": "- Optimicé en un 80% una aplicación mediante la refactorización a a PHP 7.4 y laravel 7."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Abundiss Services"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-02-28",
+            "challenges": [
+              {
+                "description": "Desarrollo de sistemas web con uso principalmente de la tecnología PHP con framwework Laravel, desarrollo de frontend - HTML5 - CSS3 - Javascript - Jquery - Boostrap 4.\n\nDesarrallo de themes y plugins para el manejador de contenido Wordpress"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arepa Web Group "
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2017-01-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "- Administré aproximadamente 20 proyectos de desarrollo web y de marketing desde inicio hasta su implementación al 100%."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LogosCorp"
+        },
+        "roles": [
+          {
+            "name": "developer",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Exodata Solutions C.A."
+        },
+        "roles": [
+          {
+            "name": "Front End Developer",
+            "startDate": "2015-01-01",
+            "finishDate": "2016-01-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arkisoft LLC"
+        },
+        "roles": [
+          {
+            "name": "Consultor",
+            "startDate": "2014-01-01",
+            "finishDate": "2015-12-31",
+            "challenges": [
+              {
+                "description": "Modelado e integración del sistema en diferentes escenarios de los procesos de negocios de una empresa, Identificando y documentando las brechas de funcionalidad del sistema. diseño e implantación de los perfiles de seguridad y de acceso a usuarios finales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ArepaWeb"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2014-01-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "Gestión y mercadeo Inbound de proyectos, Análisis, Desarrollo y Pruebas de Proyectos Web, con CMS como wordpress, Atracción de Lead, Conversión de leads, Retención HubSpot, Metricas, ROI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Banesco Banco Universal"
+        },
+        "roles": [
+          {
+            "name": "Analista de operaciones I",
+            "startDate": "2013-01-01",
+            "finishDate": "2014-01-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Consultores de Sistemas y Gerencia"
+        },
+        "roles": [
+          {
+            "name": "Consultor Junior para Empresas Polar",
+            "startDate": "2012-04-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Consultoría estratégica para resolución de fallas en herramientas en un ambiente de colaboración basado en Lotus notes, webex, sap portal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Exodata "
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2012-01-01",
+            "finishDate": "2016-01-01",
+            "challenges": [
+              {
+                "description": "- Participé en más de 20 proyectos de desarrollo web con diferentes tecnologías.\n- Implemente procesos agile para la gestión de los proyectos internos mejorando la comunicación y trabajo interno en un 100%\n- Mejoré en un 60% los tiempos de respuestas entre departamentos mediante la implementación de un sistema de intranet interna."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telefónica"
+        },
+        "roles": [
+          {
+            "name": "Analista de soporte web para Telefonica",
+            "startDate": "2009-11-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "- Reduje en un 30% el tiempo de atención a las distintas áreas internas mediante la participación en la implementación de distintos módulos para la mejora del flujo de solicitud de soporte interno."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Soporte SPI"
+        },
+        "roles": [
+          {
+            "name": "Analista para Telefonica",
+            "startDate": "2009-11-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "Soporte presencial y remoto, configuración e instalación de SW y HW, resolución de fallas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Golden team"
+        },
+        "roles": [
+          {
+            "name": "RAC",
+            "startDate": "2009-01-01",
+            "finishDate": "2010-01-01",
+            "challenges": [
+              {
+                "description": "ATC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servicios Tecnologicos Rise"
+        },
+        "roles": [
+          {
+            "name": "Developer I",
+            "startDate": "2006-01-01",
+            "finishDate": "2007-01-01",
+            "challenges": [
+              {
+                "description": "programador encargado de la actualización de un modulo de pagos tributarios de un SW diseñado en C#"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "UML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CMS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/heribertososa/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
